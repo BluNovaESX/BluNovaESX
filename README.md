@@ -32,9 +32,15 @@ Mein Fokus liegt auf **Stabilität**, **klarer Struktur** und **praxisnahen Lös
 
 ---
 
-## 📫 Kontakt
-- 📧 **Mail:** blunovaesx@gmail.com  
-- 💻 **GitHub:** @BluNovaESX
+## 🤝 Support & individuelle Scripts
+
+Du brauchst **Hilfe**, hast **Fragen** oder wünschst dir ein **individuelles ESX-Script**?
+
+📩 **Melde dich gerne bei mir:**
+- **Mail:** blunovaesx@gmail.com
+- **GitHub:** @BluNovaESX
+
+Ich helfe gerne weiter oder setze **maßgeschneiderte Lösungen** für deinen Server um.
 
 ---
 
